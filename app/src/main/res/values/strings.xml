@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Generating cats!</string>
+    <string name="choose_number_of_cats_spinner_name">Choose number of cats</string>
+    <string name="generate_cats_button_name">Generate cats</string>
+    <string name="exit_button_name">Exit</string>
+    <string name="generated_cats">Generated cats</string>
+    <string name="back_button">Go back</string>
+
+    <string-array name="cats_array">
+        <item>1 cat</item>
+        <item>2 cats</item>
+        <item>3 cats</item>
+        <item>4 cats</item>
+        <item>5 cats</item>
+        <item>6 cats</item>
+        <item>7 cats</item>
+        <item>8 cats</item>
+        <item>9 cats</item>
+        <item>10 cats</item>
+        <item>11 cats</item>
+        <item>12 cats</item>
+        <item>13 cats</item>
+        <item>14 cats</item>
+        <item>15 cats</item>
+        <item>16 cats</item>
+        <item>17 cats</item>
+        <item>18 cats</item>
+        <item>19 cats</item>
+        <item>20 cats</item>
+        <item>21 cats</item>
+        <item>22 cats</item>
+        <item>23 cats</item>
+        <item>24 cats</item>
+        <item>25 cats</item>
+        <item>26 cats</item>
+        <item>27 cats</item>
+        <item>28 cats</item>
+        <item>29 cats</item>
+        <item>30 cats</item>
+    </string-array>
+</resources>
